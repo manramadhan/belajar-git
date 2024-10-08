@@ -5,4 +5,4 @@ Berisi perintah perintah belajar **git dasar**
 - Memindahkan dari working ke 
 stage ``` git add . ```
 
-- Dari stage ke repo ``` git commit -m "PESAN NYA" ``
+- Dari stage ke repo ``` git commit -m "PESAN NYA" ```
